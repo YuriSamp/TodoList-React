@@ -1,4 +1,7 @@
 # TodoList-React
+
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
+
 Criei esse app pra me ajudar a entender melhor como props funcionam no React e foi bem divertido o processo de desenvolvimento!!
 
 O projeto ficou dessa maneira:
